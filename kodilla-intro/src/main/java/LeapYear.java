@@ -1,5 +1,6 @@
 public class LeapYear {
     public static void main(String[] args) {
+        int yourAge = 5;
         if (yourAge < 10) {
             System.out.println("You're a kid");
         } else if (yourAge > 10 && yourAge < 18) {
