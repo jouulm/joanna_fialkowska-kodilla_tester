@@ -7,5 +7,5 @@ public class Main {
         boolean isGoodProgrammer = true;
         System.out.println(myName);
     }
-
+}
 
